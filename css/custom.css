@@ -71,7 +71,12 @@ body
     
 }
 
-
+#btnBottomCookBook
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 50px;
+}
 
 
 .carousel-caption{
